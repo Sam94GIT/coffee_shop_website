@@ -27,5 +27,6 @@
       "src": "/scripts.js",
       "dest": "/scripts.js"
     }
+    { "src": "/assets/(.*)", "dest": "/assets/$1" }
   ]
 }
